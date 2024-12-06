@@ -1,0 +1,22 @@
+[
+  {
+    "id": "قوانين العامة ",
+    "title": "اقراء القوانين",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "قوانين الاجرام ",
+    "title": "اقراء القوانين",
+    "description": "data/file2.txt"
+  },
+  {
+    "id": "قوانين الاعدامات ",
+    "title": "اقراء القوانين",
+    "description": "data/file3.txt"
+  },
+  {
+    "id": "المناطق الامنة ",
+    "title": "اقراء القوانين",
+    "description": "data/file4.txt"
+  }
+]
